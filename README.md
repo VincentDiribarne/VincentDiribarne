@@ -6,7 +6,7 @@ Je suis un developpeur full stack basée à Laval, France. J'aime construire des
 * 🔭 Je travaille actuellement sur le site de mon club de dodgeball
 * 🌱 J'approfondis le backend et le déploiement (Docker)
 * 💬 Posez-moi vos questions sur Java, TypeScript ou Vue
-* 📫 Comment me contacter : [Mon email](vdiribarnepro@gmail.com)
+* 📫 Comment me contacter : [vdiribarnepro@gmail.com]
 
 ## 🛠️ Technologies & Tools
 
