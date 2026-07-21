@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vincent DIRIBARNE!
+# 👋 Salut, moi c'est Vincent DIRIBARNE!
 
 ## 🚀 À propos de moi
 Je suis un developpeur full stack basée à Laval, France. J'aime construire des projets de A à Z et transformer des idées complexes en applications simples et intuitives.
