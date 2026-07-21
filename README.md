@@ -46,15 +46,15 @@ Je suis un developpeur full stack basée à Laval, France. J'aime construire des
 
 ## 🏆 Projets Phares
 
-###🏆 [App Leridon](https://github.com/LMT-Leridon/app-leridon)
+### 🏆 [App Leridon](https://github.com/LMT-Leridon/app-leridon)
 **Projet scolaire récompensé pour sa qualité** - Site web développé en équipe, avec déploiement conteneurisé.\n
 Technologies utilisées : `Vue` `TypeScript` `Docker`
 
-###🤾 [DodgeballClubLaval](https://github.com/VincentDiribarne/DodgeballClubLaval)
+### 🤾 [DodgeballClubLaval](https://github.com/VincentDiribarne/DodgeballClubLaval)
 **Site web pour un club de sport local** - Plateforme réalisée pour mon club de dodgeball.\n
 Technologies utilisées : `Vue` `TypeScript` `Vite`
 
-###📚 [BibliothequeV2](https://github.com/VincentDiribarne/BibliothequeV2)
+### 📚 [BibliothequeV2](https://github.com/VincentDiribarne/BibliothequeV2)
 Bot discord pour modérer un serveur\n
 Technologies : `TypeScript`
 
